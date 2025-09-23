@@ -1,7 +1,13 @@
+import {LocaleSelector} from 'gt-next';
+import {T} from 'gt-next';
+
 export default function Home() {
   return (
     <main>
-      <div>Hello world!</div>
+      <div>
+        <T>Hello world!</T>
+      </div>
+      <LocaleSelector />
     </main>
   );
 }
