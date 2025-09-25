@@ -3,5 +3,10 @@
   "locales": [
     "de"
   ],
+  "files": {
+    "gt": {
+      "output": "public/_gt/[locale].json"
+    }
+  },
   "_versionId": "0508d5c4348afc43b9ccc9b707cb45d8b85da152fcc1f043efdfb5077b882e71"
 }
